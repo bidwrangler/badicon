@@ -1,0 +1,12 @@
+# OS X
+.DS_Store
+hooks
+scripts
+node_modules
+merges
+platforms
+plugins
+.cordova
+*.zip
+/icon.png
+/res
